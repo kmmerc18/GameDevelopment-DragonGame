@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{9CD095BB-A2B6-398D-B1E2-B5A99B90CA51}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/dragonWarrior.cs">
+    <Files>
+      <File FileName="Assets/Scripts/dragonWarrior.cs" Line="21" Column="35" />
+      <File FileName="Assets/Scripts/fireBalls.cs" Line="15" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment _11" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d6a498dd-9744-4b18-8a4a-9e595c305921" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
